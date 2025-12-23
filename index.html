@@ -8,32 +8,54 @@
 </head>
 <body>
     <header>
-        <h1>Faith Forward</h1>
-        <p>Invictus Spiritus</p>
+        <nav>
+            <a href="index.html" class="logo-link"><img src="faithforwardlogo.png" alt="Faith Forward Logo" class="logo"></a>
+            <div class="nav-links">
+                <a href="about.html">About Us</a>
+                <a href="resources.html">Resources</a>
+                <a href="events.html">Events</a>
+                <a href="contact.html">Contact</a>
+                <a href="#" class="give-button">Give</a>
+            </div>
+        </nav>
     </header>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About Us</a>
-        <a href="resources.html">Resources</a>
-        <a href="events.html">Drives & Events</a>
-        <a href="contact.html">Contact</a>
-    </nav>
     <main>
-        <section id="hero">
-            <h2>Welcome to Faith Forward</h2>
-            <p>A veteran outreach program dedicated to serving those who have served us.</p>
+        <section class="hero">
+            <video autoplay muted loop id="hero-video">
+                <source src="https://storage.googleapis.com/deserthills-website/hero-video.mp4" type="video/mp4">
+            </video>
+            <div class="hero-content">
+                <h1>Welcome to Faith Forward</h1>
+                <p>Invictus Spiritus</p>
+                <a href="#im-new" class="cta-button">I'm New</a>
+            </div>
         </section>
-        <section id="daily-scripture">
+        <section id="im-new" class="info-section">
+            <h2>I'm New</h2>
+            <p>Welcome to Faith Forward. We are a veteran outreach program dedicated to serving those who have served us. We are based in St. Louis, Missouri and is veteran owned and operated by a former homeless veteran.</p>
+            <a href="about.html" class="learn-more-button">Learn More</a>
+        </section>
+        <section id="daily-scripture" class="info-section">
             <h3>Daily Scripture</h3>
             <p id="scripture-text"></p>
         </section>
-        <section id="weather">
+        <section id="weather" class="info-section">
             <h3>St. Louis Weather</h3>
             <div id="weather-widget"></div>
         </section>
+        <section id="sermons" class="info-section">
+            <h2>Sermons</h2>
+            <p>Watch our latest sermons and find hope and encouragement.</p>
+            <a href="#" class="learn-more-button">Watch Now</a>
+        </section>
+        <section id="events" class="info-section">
+            <h2>Upcoming Events</h2>
+            <p>Join us for our upcoming food and clothing drives.</p>
+            <a href="events.html" class="learn-more-button">View Events</a>
+        </section>
     </main>
     <footer>
-        <p>&copy; 2025 Faith Forward. Veteran owned and operated in St. Louis, Missouri.</p>
+        <p>&copy; 2025 Faith Forward. All Rights Reserved.</p>
     </footer>
     <script src="script.js"></script>
 </body>

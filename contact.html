@@ -8,18 +8,19 @@
 </head>
 <body>
     <header>
-        <h1>Faith Forward</h1>
-        <p>Invictus Spiritus</p>
+        <nav>
+            <a href="index.html" class="logo-link"><img src="faithforwardlogo.png" alt="Faith Forward Logo" class="logo"></a>
+            <div class="nav-links">
+                <a href="about.html">About Us</a>
+                <a href="resources.html">Resources</a>
+                <a href="events.html">Events</a>
+                <a href="contact.html">Contact</a>
+                <a href="#" class="give-button">Give</a>
+            </div>
+        </nav>
     </header>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About Us</a>
-        <a href="resources.html">Resources</a>
-        <a href="events.html">Drives & Events</a>
-        <a href="contact.html">Contact</a>
-    </nav>
     <main>
-        <section id="contact">
+        <section class="info-section">
             <h2>Contact Us</h2>
             <p>For inquiries, please fill out the form below. We will get back to you as soon as possible.</p>
             <form action="https://formspree.io/f/{your_form_id}" method="POST">
@@ -29,7 +30,7 @@
                 <input type="email" id="email" name="email" required>
                 <label for="message">Message:</label>
                 <textarea id="message" name="message" required></textarea>
-                <button type="submit">Send</button>
+                <button type="submit" class="learn-more-button">Send</button>
             </form>
             <p><strong>Faith Forward Headquarters</strong></p>
             <p>123 Main Street</p>
@@ -38,7 +39,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Faith Forward. Veteran owned and operated in St. Louis, Missouri.</p>
+        <p>&copy; 2025 Faith Forward. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
