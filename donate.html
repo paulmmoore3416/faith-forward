@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Give Back | Support Our Veterans | Faith Forward</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/input.css">
+</head>
+<body class="bg-gray-50 text-faith-slate">
+    <header class="fixed top-0 w-full z-50 bg-white/95 backdrop-blur shadow-sm border-b border-gray-100">
+        <nav class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <a href="index.html" class="flex items-center space-x-3 group">
+                <img src="/faithforwardlogo.png" alt="Faith Forward Logo" class="h-12 w-auto group-hover:scale-105 transition-transform">
+                <span class="text-2xl font-serif font-bold text-faith-navy tracking-tight hidden sm:inline">Faith Forward</span>
+            </a>
+            
+            <div class="hidden md:flex items-center space-x-8 text-sm font-bold uppercase tracking-widest text-faith-navy">
+                <a href="about.html" class="hover:text-faith-gold transition-colors">Our Story</a>
+                <a href="resources.html" class="hover:text-faith-gold transition-colors">Resources</a>
+                <a href="recovery-manual.html" class="hover:text-faith-gold transition-colors">Recovery Manual</a>
+                <a href="events.html" class="hover:text-faith-gold transition-colors">Events</a>
+                <a href="contact.html" class="hover:text-faith-gold transition-colors">Contact</a>
+                <a href="donate.html" class="bg-faith-gold text-white px-6 py-2 rounded-full hover:bg-faith-gold-dark transition-all shadow-md">Give Back</a>
+            </div>
+
+            <button id="mobile-menu-btn" class="md:hidden text-3xl">☰</button>
+        </nav>
+        <div id="nav-links" class="hidden flex-col bg-white border-t border-gray-100 p-4 space-y-4 text-center md:hidden">
+            <a href="about.html" class="block">Our Story</a>
+            <a href="resources.html" class="block">Resources</a>
+            <a href="recovery-manual.html" class="block">Recovery Manual</a>
+            <a href="events.html" class="block">Events</a>
+            <a href="contact.html" class="block">Contact</a>
+            <a href="donate.html" class="block bg-faith-gold text-white py-2 rounded">Give Back</a>
+        </div>
+    </header>
+
+    <main class="pt-32 pb-20">
+        <div class="container mx-auto px-4 max-w-5xl">
+            <div class="text-center mb-16">
+                <h1 class="text-5xl font-serif font-bold text-faith-navy mb-4">Invest in a Hero's Future</h1>
+                <p class="text-xl text-gray-600 max-w-2xl mx-auto">Your donation directly funds emergency resources, survival gear, and peer support for veterans in St. Louis.</p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8 mb-16">
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-gold text-center">
+                    <div class="text-4xl mb-4">🎒</div>
+                    <h3 class="text-2xl font-bold mb-2">$50</h3>
+                    <p class="text-gray-600 mb-6">Provides one complete Winter Survival Backpack with thermal gear and hygiene kits.</p>
+                    <button class="donate-trigger block w-full bg-faith-navy text-white py-3 rounded-lg font-bold hover:bg-faith-gold transition-all">Support a Veteran</button>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-gold text-center transform scale-105 z-10">
+                    <div class="text-4xl mb-4">🏠</div>
+                    <h3 class="text-2xl font-bold mb-2">$150</h3>
+                    <p class="text-gray-600 mb-6">Covers emergency transitional housing costs and resource navigation for one week.</p>
+                    <button class="donate-trigger block w-full bg-faith-gold text-white py-3 rounded-lg font-bold hover:bg-faith-gold-dark transition-all shadow-lg">Most Impactful</button>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-gold text-center">
+                    <div class="text-4xl mb-4">🍎</div>
+                    <h3 class="text-2xl font-bold mb-2">$25</h3>
+                    <p class="text-gray-600 mb-6">Provides fresh groceries and essential pantry staples for a veteran family in need.</p>
+                    <button class="donate-trigger block w-full bg-faith-navy text-white py-3 rounded-lg font-bold hover:bg-faith-gold transition-all">Provide a Meal</button>
+                </div>
+            </div>
+
+            <script>
+                document.querySelectorAll('.donate-trigger').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        alert('Thank you for your heart to serve! This donation portal will be live once our 501(c)(3) status is finalized. Please use the contact form for immediate supply donations.');
+                    });
+                });
+            </script>
+
+            <div class="bg-faith-navy rounded-3xl p-12 text-white shadow-2xl relative overflow-hidden">
+                <div class="relative z-10 flex flex-col md:flex-row items-center justify-between">
+                    <div class="md:w-1/2 mb-8 md:mb-0">
+                        <h2 class="text-3xl font-serif font-bold mb-6 text-faith-gold">Where Your Money Goes</h2>
+                        <ul class="space-y-4">
+                            <li class="flex items-center"><span class="text-faith-gold mr-3">✔</span> 40% - Direct Aid (Backpacks, gear, food)</li>
+                            <li class="flex items-center"><span class="text-faith-gold mr-3">✔</span> 30% - Operational Costs & Legal</li>
+                            <li class="flex items-center"><span class="text-faith-gold mr-3">✔</span> 20% - Outreach & Marketing</li>
+                            <li class="flex items-center"><span class="text-faith-gold mr-3">✔</span> 10% - Emergency Reserve</li>
+                        </ul>
+                    </div>
+                    <div class="md:w-1/3 bg-white/10 backdrop-blur p-8 rounded-2xl border border-white/20">
+                        <h3 class="text-xl font-bold mb-4">Other Ways to Give</h3>
+                        <p class="text-sm text-gray-300 mb-4">We accept physical donations of new backpacks, thermal socks, and non-perishable food.</p>
+                        <a href="contact.html" class="text-faith-gold font-bold hover:underline">Contact us for drop-offs →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-white py-12 border-t border-gray-100">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-500 font-bold tracking-widest text-xs uppercase mb-4">&copy; 2025 Faith Forward</p>
+            <p class="text-gray-400 text-sm">Faith Forward is a registered 501(c)(3) non-profit organization.</p>
+        </div>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

@@ -46,17 +46,34 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Weather Placeholder
+    // Weather Dynamic Fetch
     const weatherEl = document.getElementById('weather-widget');
     if (weatherEl) {
-        weatherEl.innerHTML = `
-            <div class="flex items-center justify-center space-x-4">
-                <span class="text-4xl">☀️</span>
-                <div class="text-left">
-                    <p class="text-2xl font-bold">72°F</p>
-                    <p class="text-gray-600">Clear Skies in St. Louis</p>
-                </div>
-            </div>
-        `;
+        fetch('https://api.open-meteo.com/v1/forecast?latitude=38.6273&longitude=-90.1979&current_weather=true')
+            .then(res => res.json())
+            .then(data => {
+                const temp = Math.round(data.current_weather.temperature * 9/5 + 32);
+                const code = data.current_weather.weathercode;
+                let icon = '☀️';
+                let desc = 'Clear Skies';
+                
+                if (code > 0) { icon = '⛅'; desc = 'Partly Cloudy'; }
+                if (code > 45) { icon = '🌫️'; desc = 'Foggy'; }
+                if (code > 60) { icon = '🌧️'; desc = 'Raining'; }
+                if (code > 70) { icon = '❄️'; desc = 'Snowing'; }
+                
+                weatherEl.innerHTML = `
+                    <div class="flex items-center justify-center space-x-4">
+                        <span class="text-5xl animate-bounce">${icon}</span>
+                        <div class="text-left">
+                            <p class="text-3xl font-bold text-faith-gold">${temp}°F</p>
+                            <p class="text-gray-400 font-bold uppercase tracking-widest text-xs">${desc} in St. Louis</p>
+                        </div>
+                    </div>
+                `;
+            })
+            .catch(() => {
+                weatherEl.innerHTML = `<p class="text-gray-400">Weather data temporarily unavailable</p>`;
+            });
     }
 });

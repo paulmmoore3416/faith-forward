@@ -11,6 +11,7 @@ export default defineConfig({
         contact: resolve(__dirname, 'contact.html'),
         events: resolve(__dirname, 'events.html'),
         recovery: resolve(__dirname, 'recovery-manual.html'),
+        donate: resolve(__dirname, 'donate.html'),
         error: resolve(__dirname, '404.html'),
       },
     },
