@@ -18,3 +18,13 @@ body {
 h1, h2, h3, h4 {
     @apply font-serif;
 }
+
+/* Recovery Manual Styles */
+.prose-faith h1 { @apply text-4xl font-serif font-bold text-faith-navy mb-8 border-b-2 border-faith-gold pb-4; }
+.prose-faith h2 { @apply text-3xl font-serif font-bold text-faith-navy mt-12 mb-6; }
+.prose-faith h3 { @apply text-2xl font-bold text-faith-gold mt-8 mb-4; }
+.prose-faith p { @apply text-gray-700 leading-relaxed mb-6; }
+.prose-faith ul { @apply list-disc pl-6 mb-6 space-y-2 text-gray-700; }
+.prose-faith blockquote { @apply border-l-4 border-faith-gold pl-6 italic text-faith-navy my-8 bg-gray-50 p-6 rounded-r-lg; }
+.prose-faith hr { @apply my-12 border-gray-100; }
+.prose-faith a { @apply text-faith-gold hover:text-faith-gold-dark font-bold underline decoration-2 underline-offset-4 transition-colors; }
