@@ -1,0 +1,7 @@
+services:
+  faith-forward:
+    build: .
+    ports:
+      - "8080:80"
+    restart: always
+    container_name: faith_forward_app

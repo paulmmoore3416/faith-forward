@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veteran Resources | Faith Forward St. Louis</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="/assets/resources-SFY0TCsC.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/main-Bk-If6dU.js">
+  <link rel="stylesheet" crossorigin href="/assets/input-Dkd7oL4X.css">
+</head>
+<body class="bg-gray-50 text-faith-slate">
+    <header class="fixed top-0 w-full z-50 bg-white/95 backdrop-blur shadow-sm border-b border-gray-100">
+        <nav class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <a href="index.html" class="flex items-center space-x-3 group">
+                <img src="/faithforwardlogo.png" alt="Faith Forward Logo" class="h-12 w-auto group-hover:scale-105 transition-transform">
+                <span class="text-2xl font-serif font-bold text-faith-navy tracking-tight hidden sm:inline">Faith Forward</span>
+            </a>
+            
+            <div class="hidden md:flex items-center space-x-8 text-sm font-bold uppercase tracking-widest text-faith-navy">
+                <a href="about.html" class="hover:text-faith-gold transition-colors">Our Story</a>
+                <a href="resources.html" class="hover:text-faith-gold transition-colors text-faith-gold border-b-2 border-faith-gold">Resources</a>
+                <a href="events.html" class="hover:text-faith-gold transition-colors">Events</a>
+                <a href="contact.html" class="hover:text-faith-gold transition-colors">Contact</a>
+                <a href="#" class="bg-faith-gold text-white px-6 py-2 rounded-full hover:bg-faith-gold-dark transition-all shadow-md">Give Back</a>
+            </div>
+            <button id="mobile-menu-btn" class="md:hidden text-3xl">☰</button>
+        </nav>
+    </header>
+
+    <main class="pt-24">
+        <!-- Resource Header -->
+        <section class="bg-faith-navy text-white py-20 relative overflow-hidden">
+            <div class="container mx-auto px-4 relative z-10 text-center">
+                <h1 class="text-5xl md:text-6xl font-serif font-bold mb-6">Veteran Resource Hub</h1>
+                <p class="text-xl text-gray-300 max-w-2xl mx-auto">Comprehensive support within a 15-mile radius of St. Louis. Select a category below to find the help you need.</p>
+            </div>
+            <div class="absolute inset-0 opacity-10">
+                <img src="https://www.transparenttextures.com/patterns/cubes.png" alt="pattern">
+            </div>
+        </section>
+
+        <!-- Filters -->
+        <section class="sticky top-[73px] bg-white z-40 border-b border-gray-200 shadow-sm overflow-x-auto">
+            <div class="container mx-auto px-4 py-4 flex space-x-4 min-w-max justify-center">
+                <button data-category="All" class="filter-btn bg-faith-gold text-white px-6 py-2 rounded-full text-sm font-bold transition-all shadow-sm">All Resources</button>
+                <button data-category="Housing" class="filter-btn bg-gray-100 hover:bg-gray-200 px-6 py-2 rounded-full text-sm font-bold transition-all">Housing</button>
+                <button data-category="Employment" class="filter-btn bg-gray-100 hover:bg-gray-200 px-6 py-2 rounded-full text-sm font-bold transition-all">Employment</button>
+                <button data-category="Medical" class="filter-btn bg-gray-100 hover:bg-gray-200 px-6 py-2 rounded-full text-sm font-bold transition-all">Medical</button>
+                <button data-category="Food" class="filter-btn bg-gray-100 hover:bg-gray-200 px-6 py-2 rounded-full text-sm font-bold transition-all">Food Support</button>
+                <button data-category="Utilities" class="filter-btn bg-gray-100 hover:bg-gray-200 px-6 py-2 rounded-full text-sm font-bold transition-all">Utilities</button>
+            </div>
+        </section>
+
+        <!-- Resource Grid -->
+        <section class="py-16 bg-gray-50 min-h-[60vh]">
+            <div class="container mx-auto px-4">
+                <div id="resources-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Cards injected via TS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Emergency Footer -->
+        <section class="bg-red-50 border-y border-red-100 py-12">
+            <div class="container mx-auto px-4 text-center">
+                <h3 class="text-2xl font-bold text-red-800 mb-4">In Immediate Crisis?</h3>
+                <p class="text-red-700 mb-6">Available 24/7. Confidential support for veterans and their loved ones.</p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="tel:988" class="bg-red-600 text-white px-8 py-3 rounded-lg font-bold shadow-lg hover:bg-red-700 transition-colors">Dial 988 (Press 1)</a>
+                    <a href="tel:18774243838" class="bg-white border-2 border-red-600 text-red-600 px-8 py-3 rounded-lg font-bold hover:bg-red-50 transition-colors">Homeless Veteran Hotline</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-white py-12 border-t border-gray-100">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-400 text-sm italic mb-4">"No one is more professional than I."</p>
+            <p class="text-gray-500 font-bold tracking-widest text-xs uppercase">&copy; 2025 Faith Forward</p>
+        </div>
+    </footer>
+
+</body>
+</html>

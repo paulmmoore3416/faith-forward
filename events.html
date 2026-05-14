@@ -3,43 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Drives & Events - Faith Forward</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Community Events | Faith Forward</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/input.css">
 </head>
-<body>
-    <header>
-        <nav>
-            <a href="index.html" class="logo-link"><img src="faithforwardlogo.png" alt="Faith Forward Logo" class="logo"></a>
-            <div class="nav-links">
-                <a href="about.html">About Us</a>
-                <a href="resources.html">Resources</a>
-                <a href="events.html">Events</a>
-                <a href="contact.html">Contact</a>
-                <a href="#" class="give-button">Give</a>
+<body class="bg-gray-50 text-faith-slate">
+    <header class="fixed top-0 w-full z-50 bg-white/95 backdrop-blur shadow-sm border-b border-gray-100">
+        <nav class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <a href="index.html" class="flex items-center space-x-3 group">
+                <img src="/faithforwardlogo.png" alt="Faith Forward Logo" class="h-12 w-auto group-hover:scale-105 transition-transform">
+                <span class="text-2xl font-serif font-bold text-faith-navy tracking-tight hidden sm:inline">Faith Forward</span>
+            </a>
+            <div class="hidden md:flex items-center space-x-8 text-sm font-bold uppercase tracking-widest text-faith-navy">
+                <a href="about.html" class="hover:text-faith-gold transition-colors">Our Story</a>
+                <a href="resources.html" class="hover:text-faith-gold transition-colors">Resources</a>
+                <a href="events.html" class="text-faith-gold border-b-2 border-faith-gold">Events</a>
+                <a href="contact.html" class="hover:text-faith-gold transition-colors">Contact</a>
+                <a href="#" class="bg-faith-gold text-white px-6 py-2 rounded-full hover:bg-faith-gold-dark transition-all shadow-md">Give Back</a>
             </div>
+            <button id="mobile-menu-btn" class="md:hidden text-3xl">☰</button>
         </nav>
     </header>
-    <main>
-        <section class="info-section">
-            <h2>Upcoming Drives & Events</h2>
-            <div class="event">
-                <h3>Winter Clothing Drive</h3>
-                <p><strong>Date:</strong> Saturday, January 10, 2026</p>
-                <p><strong>Time:</strong> 10:00 AM - 2:00 PM</p>
-                <p><strong>Location:</strong> Faith Forward Headquarters, 123 Main Street, St. Louis, MO</p>
-                <p><strong>Details:</strong> We are collecting new and gently used winter clothing for homeless veterans. Items needed include coats, hats, gloves, scarves, and warm socks.</p>
+
+    <main class="pt-32 pb-20">
+        <div class="container mx-auto px-4">
+            <h1 class="text-5xl font-serif font-bold text-faith-navy mb-12 text-center">Upcoming Veteran Events</h1>
+            
+            <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-navy bg-blue-50/50 md:col-span-2">
+                    <div class="flex items-center justify-between mb-6">
+                        <span class="bg-red-600 text-white px-4 py-1 rounded-full text-xs font-bold uppercase tracking-widest animate-pulse">High Priority Drive</span>
+                        <span class="text-faith-navy font-bold text-lg">Donation Drop-off</span>
+                    </div>
+                    <h3 class="text-3xl font-bold mb-4 text-faith-navy">Annual Winter Survival Backpack Drive</h3>
+                    <p class="text-gray-700 mb-6 text-lg">We are actively collecting backpacks and winter survival supplies (thermal socks, beanies, gloves, hand warmers, and hygiene kits) to prepare for the brutal cold season. These tactical backpacks will be distributed directly to unhoused veterans living on the streets of St. Louis. Help us ensure no veteran freezes this winter.</p>
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <a href="contact.html" class="bg-faith-navy hover:bg-faith-gold text-white px-6 py-3 rounded-lg font-bold transition-colors inline-block text-center shadow-lg">Become a Drop-Off Location</a>
+                        <a href="#" class="bg-white border-2 border-faith-navy text-faith-navy hover:bg-gray-50 px-6 py-3 rounded-lg font-bold transition-colors inline-block text-center">Donate Supplies</a>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-gold">
+                    <div class="flex items-center justify-between mb-6">
+                        <span class="bg-gray-100 text-faith-navy px-4 py-1 rounded-full text-xs font-bold uppercase tracking-widest">July 15, 2025</span>
+                        <span class="text-faith-gold font-bold">Food Drive</span>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-4 text-faith-navy">Veteran Community Food Market</h3>
+                    <p class="text-gray-600 mb-6">Partnering with the St. Louis Foodbank to provide fresh produce and pantry staples to veteran families.</p>
+                    <p class="text-sm text-gray-400">📍 Jefferson Barracks Park, St. Louis, MO</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-faith-gold">
+                    <div class="flex items-center justify-between mb-6">
+                        <span class="bg-gray-100 text-faith-navy px-4 py-1 rounded-full text-xs font-bold uppercase tracking-widest">Aug 02, 2025</span>
+                        <span class="text-faith-gold font-bold">Workshop</span>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-4 text-faith-navy">Resume & Interview Prep</h3>
+                    <p class="text-gray-600 mb-6">One-on-one session with corporate recruiters who specialize in veteran hiring transitions.</p>
+                    <p class="text-sm text-gray-400">📍 Missouri Job Center, Market St.</p>
+                </div>
             </div>
-            <div class="event">
-                <h3>Canned Food Drive</h3>
-                <p><strong>Date:</strong> Saturday, February 14, 2026</p>
-                <p><strong>Time:</strong> 12:00 PM - 4:00 PM</p>
-                <p><strong>Location:</strong> Grace Church, 456 Oak Avenue, St. Louis, MO</p>
-                <p><strong>Details:</strong> Help us stock our pantry for veterans in need. We are accepting non-perishable food items, especially canned goods with pop-tops.</p>
-            </div>
-        </section>
+        </div>
     </main>
-    <footer>
-        <p>&copy; 2025 Faith Forward. All Rights Reserved.</p>
+
+    <footer class="bg-white py-12 border-t border-gray-100">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-500 font-bold tracking-widest text-xs uppercase">&copy; 2025 Faith Forward</p>
+        </div>
     </footer>
+    <script type="module" src="/src/main.ts"></script>
 </body>
 </html>

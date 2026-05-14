@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-faith-gold: #ac8e68;
+  --color-faith-gold-dark: #8a7152;
+  --color-faith-navy: #1a252f;
+  --color-faith-slate: #2c3e50;
+  
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Lato", sans-serif;
+}
+
+/* Custom base styles */
+body {
+    @apply antialiased text-faith-slate bg-gray-50 font-sans;
+}
+
+h1, h2, h3, h4 {
+    @apply font-serif;
+}

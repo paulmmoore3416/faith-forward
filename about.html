@@ -3,33 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Faith Forward</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Our Story | Faith Forward</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/input.css">
 </head>
-<body>
-    <header>
-        <nav>
-            <a href="index.html" class="logo-link"><img src="faithforwardlogo.png" alt="Faith Forward Logo" class="logo"></a>
-            <div class="nav-links">
-                <a href="about.html">About Us</a>
-                <a href="resources.html">Resources</a>
-                <a href="events.html">Events</a>
-                <a href="contact.html">Contact</a>
-                <a href="#" class="give-button">Give</a>
+<body class="bg-gray-50 text-faith-slate">
+    <header class="fixed top-0 w-full z-50 bg-white/95 backdrop-blur shadow-sm border-b border-gray-100">
+        <nav class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <a href="index.html" class="flex items-center space-x-3 group">
+                <img src="/faithforwardlogo.png" alt="Faith Forward Logo" class="h-12 w-auto group-hover:scale-105 transition-transform">
+                <span class="text-2xl font-serif font-bold text-faith-navy tracking-tight hidden sm:inline">Faith Forward</span>
+            </a>
+            <div class="hidden md:flex items-center space-x-8 text-sm font-bold uppercase tracking-widest text-faith-navy">
+                <a href="about.html" class="text-faith-gold border-b-2 border-faith-gold">Our Story</a>
+                <a href="resources.html" class="hover:text-faith-gold transition-colors">Resources</a>
+                <a href="events.html" class="hover:text-faith-gold transition-colors">Events</a>
+                <a href="contact.html" class="hover:text-faith-gold transition-colors">Contact</a>
+                <a href="#" class="bg-faith-gold text-white px-6 py-2 rounded-full hover:bg-faith-gold-dark transition-all shadow-md">Give Back</a>
             </div>
+            <button id="mobile-menu-btn" class="md:hidden text-3xl">☰</button>
         </nav>
     </header>
-    <main>
-        <section class="info-section">
-            <h2>About Faith Forward</h2>
-            <p>Faith Forward is a veteran-owned and operated non-profit organization based in St. Louis, Missouri. We are dedicated to providing a helping hand to the men and women of the armed forces, past, present, and future.</p>
-            <p>Our founder, a former homeless veteran, understands the unique challenges that veterans face when transitioning back to civilian life. Having experienced homelessness firsthand, he was inspired to create an organization that not only provides immediate relief but also fosters a sense of community and hope.</p>
-            <p>At Faith Forward, we believe in the power of faith and the resilience of the human spirit. Our motto, "Invictus Spiritus," which means "unconquerable spirit," reflects our commitment to empowering veterans to overcome adversity and build a brighter future.</p>
-            <p>Through our outreach programs, we organize clothing and food drives for homeless veterans, connecting them with essential resources and a network of support. We are driven by the belief that no one who has served our country should ever feel alone or forgotten.</p>
-        </section>
+
+    <main class="pt-32 pb-20">
+        <div class="container mx-auto px-4 max-w-3xl">
+            <h1 class="text-5xl font-serif font-bold text-faith-navy mb-8">Our Mission & Founder</h1>
+            <div class="prose prose-lg text-gray-600">
+                <p class="mb-6 leading-relaxed text-xl font-serif italic text-faith-gold">"I have been where you are. I have walked the streets of St. Louis with nothing but the clothes on my back and the weight of my service on my soul."</p>
+                <p class="mb-6">Faith Forward was founded by a combat veteran who experienced the darkest corners of post-service life: homelessness, addiction, and the justice system. After a long journey back to stability, he realized that the hardest part wasn't the desire to change—it was finding the map to do so.</p>
+                <p class="mb-6">Today, Faith Forward serves as that map. We aren't just a referral service; we are a brotherhood. We understand the specific needs of the St. Louis veteran community because we are part of it.</p>
+                <div class="bg-white p-8 rounded-2xl shadow-md border-l-8 border-faith-gold my-10">
+                    <h3 class="text-faith-navy font-bold text-2xl mb-4">Our Commitment</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start"><span class="text-faith-gold mr-3">✓</span> <strong>Empathy first:</strong> We listen without judgment.</li>
+                        <li class="flex items-start"><span class="text-faith-gold mr-3">✓</span> <strong>Direct Action:</strong> We don't just give you a number; we help you make the connection.</li>
+                        <li class="flex items-start"><span class="text-faith-gold mr-3">✓</span> <strong>Community Rooted:</strong> Every resource we list is verified for the St. Louis area.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </main>
-    <footer>
-        <p>&copy; 2025 Faith Forward. All Rights Reserved.</p>
+
+    <footer class="bg-white py-12 border-t border-gray-100">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-500 font-bold tracking-widest text-xs uppercase">&copy; 2025 Faith Forward</p>
+        </div>
     </footer>
+    <script type="module" src="/src/main.ts"></script>
 </body>
 </html>
