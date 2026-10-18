@@ -1,0 +1,23 @@
+rules_version = '2';
+// Firestore security rules for Faith Forward.
+// Public website forms may CREATE submissions only. Nobody can read, list,
+// update or delete them except signed-in staff listed in the `staff` collection.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isStaff() {
+      return request.auth != null && exists(/databases/$(database)/documents/staff/$(request.auth.uid));
+    }
+
+    match /{collection}/{doc} {
+      allow create: if collection.matches('submissions_.*')
+        && request.resource.data.keys().hasAll(['createdAt', 'status'])
+        && request.resource.data.size() < 20;
+      allow read, update, delete: if isStaff();
+    }
+
+    match /staff/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false; // add staff from the Firebase console only
+    }
+  }
+}

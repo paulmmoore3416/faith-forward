@@ -3,3 +3,9 @@ dist
 .DS_Store
 *.log
 .env
+.env.*
+__pycache__/
+*.pyc
+# Private foundation records never belong in this public repository.
+foundation-office/
+*.private.*

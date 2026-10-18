@@ -4,7 +4,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 COPY . .
-RUN npx tsc && npx vite build
+RUN npx tsc && BASE_PATH=/ npx vite build
 
 # Production stage
 FROM nginx:stable-alpine

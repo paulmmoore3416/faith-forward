@@ -1,30 +1,68 @@
 @import "tailwindcss";
 
+/* Palette sampled from the Faith Forward crest: slate shield, gold cross and flame. */
 @theme {
-  --color-faith-gold: #ac8e68;
-  --color-faith-gold-dark: #8a7152;
-  --color-faith-navy: #1a252f;
-  --color-faith-slate: #2c3e50;
-  
-  --font-serif: "Playfair Display", serif;
-  --font-sans: "Lato", sans-serif;
+  --color-faith-gold: #c9a227;
+  --color-faith-gold-light: #e6c65c;
+  --color-faith-gold-dark: #9c7c18;
+  --color-faith-navy: #1e2a33;
+  --color-faith-slate: #2b3a45;
+  --color-faith-ink: #141c22;
+  --color-faith-cream: #faf7f0;
+
+  --font-serif: "Cinzel", "Playfair Display", serif;
+  --font-display: "Playfair Display", serif;
+  --font-sans: "Lato", system-ui, sans-serif;
 }
 
-/* Custom base styles */
 body {
-    @apply antialiased text-faith-slate bg-gray-50 font-sans;
+  @apply antialiased text-faith-slate bg-faith-cream font-sans;
 }
 
 h1, h2, h3, h4 {
-    @apply font-serif;
+  @apply font-serif;
 }
 
-/* Recovery Manual Styles */
-.prose-faith h1 { @apply text-4xl font-serif font-bold text-faith-navy mb-8 border-b-2 border-faith-gold pb-4; }
-.prose-faith h2 { @apply text-3xl font-serif font-bold text-faith-navy mt-12 mb-6; }
-.prose-faith h3 { @apply text-2xl font-bold text-faith-gold mt-8 mb-4; }
-.prose-faith p { @apply text-gray-700 leading-relaxed mb-6; }
-.prose-faith ul { @apply list-disc pl-6 mb-6 space-y-2 text-gray-700; }
-.prose-faith blockquote { @apply border-l-4 border-faith-gold pl-6 italic text-faith-navy my-8 bg-gray-50 p-6 rounded-r-lg; }
-.prose-faith hr { @apply my-12 border-gray-100; }
-.prose-faith a { @apply text-faith-gold hover:text-faith-gold-dark font-bold underline decoration-2 underline-offset-4 transition-colors; }
+/* Component classes live in a layer so utilities (bg-*, text-*) can override them. */
+@layer components {
+  .btn-gold { @apply inline-block bg-faith-gold text-faith-ink font-bold px-6 py-3 rounded-lg shadow-md hover:bg-faith-gold-light transition-all; }
+  .btn-navy { @apply inline-block bg-faith-navy text-white font-bold px-6 py-3 rounded-lg shadow-md hover:bg-faith-slate transition-all; }
+  .btn-ghost { @apply inline-block border border-white/40 text-white font-bold px-6 py-3 rounded-lg hover:bg-white/10 transition-all; }
+  .card { @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-6; }
+  .eyebrow { @apply text-faith-gold font-bold tracking-[0.25em] uppercase text-xs; }
+  .section-title { @apply text-3xl md:text-5xl font-serif font-bold text-faith-navy; }
+  .input { @apply w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-faith-gold bg-white text-faith-slate; }
+  .label { @apply block text-sm font-bold text-faith-navy mb-1; }
+  .chip { @apply inline-block text-xs font-bold px-3 py-1 rounded-full bg-faith-gold/15 text-faith-gold-dark; }
+  .nav-link { @apply hover:text-faith-gold transition-colors; }
+  .nav-link.active { @apply text-faith-gold; }
+
+  /* Long-form content rendered from Markdown (recovery manual, news, docs) */
+  .prose-faith h1 { @apply text-4xl font-serif font-bold text-faith-navy mb-8 border-b-2 border-faith-gold pb-4; }
+  .prose-faith h2 { @apply text-3xl font-serif font-bold text-faith-navy mt-12 mb-6; }
+  .prose-faith h3 { @apply text-2xl font-bold text-faith-gold-dark mt-8 mb-4; }
+  .prose-faith h4 { @apply text-xl font-bold text-faith-navy mt-6 mb-3; }
+  .prose-faith p { @apply text-gray-700 leading-relaxed mb-6; }
+  .prose-faith ul { @apply list-disc pl-6 mb-6 space-y-2 text-gray-700; }
+  .prose-faith ol { @apply list-decimal pl-6 mb-6 space-y-2 text-gray-700; }
+  .prose-faith table { @apply w-full mb-6 text-sm border-collapse; }
+  .prose-faith th { @apply bg-faith-navy text-white text-left p-2; }
+  .prose-faith td { @apply border-b border-gray-200 p-2 align-top; }
+  .prose-faith blockquote { @apply border-l-4 border-faith-gold pl-6 italic text-faith-navy my-8 bg-white p-6 rounded-r-lg; }
+  .prose-faith hr { @apply my-12 border-gray-200; }
+  .prose-faith a { @apply text-faith-gold-dark hover:text-faith-gold font-bold underline decoration-2 underline-offset-4; }
+  .prose-faith code { @apply bg-gray-100 px-1 rounded text-sm; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.9s ease-out both; }
+@media (prefers-reduced-motion: reduce) { .fade-in { animation: none; } }
+
+@media print {
+  #site-header, #site-footer, .no-print { display: none !important; }
+  body { background: white; }
+  main { padding-top: 0 !important; }
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prayer Requests | Faith Forward Foundation</title>
+  <meta name="description" content="Send a prayer request to Faith Forward. Our deacon and prayer team will pray for you, your family, and your animal by name.">
+  <meta name="keywords" content="Faith Forward, St. Louis veterans, homeless veterans, veteran outreach, faith-based nonprofit, veteran ministry, service dog training, emotional support animal, K9 handler training, STL Veterans Hub">
+  <meta name="author" content="The Reverend Deacon Paul Moore">
+  <meta name="theme-color" content="#1e2a33">
+  <link rel="canonical" href="https://paulmmoore3416.github.io/faith-forward/prayer.html">
+  <link rel="icon" type="image/png" href="faithforwardlogo.png">
+  <link rel="apple-touch-icon" href="faithforwardlogo.png">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Faith Forward Foundation">
+  <meta property="og:title" content="Prayer Requests | Faith Forward Foundation">
+  <meta property="og:description" content="Send a prayer request to Faith Forward. Our deacon and prayer team will pray for you, your family, and your animal by name.">
+  <meta property="og:image" content="https://paulmmoore3416.github.io/faith-forward/faithforwardlogo.png">
+  <meta property="og:url" content="https://paulmmoore3416.github.io/faith-forward/prayer.html">
+  <meta name="twitter:card" content="summary">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  
+</head>
+<body class="">
+  <div id="site-header"></div>
+  <section class="bg-faith-navy text-white py-20 relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_30%_20%,#c9a227,transparent_50%)]"></div>
+    <div class="container mx-auto px-4 relative z-10 text-center max-w-4xl">
+      <p class="eyebrow mb-4">Prayer</p>
+      <h1 class="text-4xl md:text-6xl font-serif font-bold mb-6">We Will Pray for You by Name</h1>
+      <p class="text-lg md:text-xl text-gray-300">“Bear ye one another's burdens, and so fulfil the law of Christ.” (Galatians 6:2)</p>
+    </div>
+  </section>
+  <main class="py-20">
+    <div class="container mx-auto px-4 max-w-5xl grid lg:grid-cols-2 gap-10">
+      <div class="card !p-8">
+        <h2 class="text-2xl font-serif font-bold text-faith-navy mb-4">Prayer Request</h2>
+        <form data-form="prayer" class="space-y-3"><input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <div><label class="label" for="pr-name">First name (or "Anonymous")</label><input id="pr-name" class="input" name="name" required></div>
+          <div><label class="label" for="pr-for">Who are we praying for?</label><select id="pr-for" class="input" name="for"><option>Myself</option><option>A veteran I know</option><option>My family</option><option>My animal</option><option>Someone who died</option><option>Other</option></select></div>
+          <div><label class="label" for="pr-req">Your request</label><textarea id="pr-req" class="input" name="request" rows="5" required></textarea></div>
+          <div><label class="label" for="pr-contact">Contact (optional, if you'd like to hear from us)</label><input id="pr-contact" class="input" name="contact"></div>
+          <label class="flex gap-2 text-sm"><input type="checkbox" name="share" value="yes"> You may share my first name with the prayer team</label>
+          <button type="submit" class="btn-gold w-full">Send Prayer Request</button>
+        </form>
+        <p class="text-xs text-gray-500 mt-4">If you are in crisis or thinking about suicide, call 988 and press 1, or text 838255, right now. You matter.</p>
+      </div>
+      <div>
+        <div class="bg-faith-navy text-white rounded-3xl p-8 mb-6">
+          <p class="eyebrow mb-2" id="dev-feast"></p>
+          <p class="font-display italic text-xl">“<span id="dev-verse"></span>”</p>
+          <p class="text-faith-gold font-bold mt-2" id="dev-ref"></p>
+          <p class="font-bold mt-6" id="dev-prayer-title"></p>
+          <p class="text-gray-300 mt-1" id="dev-prayer"></p>
+          <p class="mt-6 italic text-gray-300" id="dev-quote"></p>
+        </div>
+        <div class="card"><h3 class="font-bold text-faith-navy mb-2">A Prayer for Veterans</h3><p class="text-gray-700 text-sm">Lord God, protector of all who serve, watch over the veterans of St. Louis tonight. Shelter the homeless, heal the wounded in body and mind, comfort the lonely, free the addicted, and bring every wanderer home. Bless the animals who stand by them. Make us Your hands and feet. Through Christ our Lord. Amen.</p></div>
+      </div>
+    </div>
+  </main>
+  <div id="site-footer"></div>
+  <script type="module" src="/src/pages/home.ts"></script>
+</body>
+</html>

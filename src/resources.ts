@@ -1,3 +1,4 @@
+import './layout';
 import { veteranResources } from './data';
 
 document.addEventListener('DOMContentLoaded', () => {

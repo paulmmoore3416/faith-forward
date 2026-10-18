@@ -1,3 +1,4 @@
+import './layout';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 
@@ -9,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Since we are using Vite, we can fetch the md file
         // In development it will be in src/recovery-manual/index.md
         // We'll move it to public or handle it via a direct import/fetch
-        const response = await fetch('/recovery-manual.md');
+        const response = await fetch(`${import.meta.env.BASE_URL}recovery-manual.md`);
         if (!response.ok) throw new Error('Manual not found');
         
         const markdown = await response.text();
