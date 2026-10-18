@@ -7,7 +7,7 @@
 | Page | Purpose |
 |---|---|
 | Home (`index.html`) | Crest and mission, **Daily Word** (scripture, prayer, quote), live St. Louis conditions, ministries, K9 feature, donation categories, founder, Facebook. |
-| Our Story (`about.html`) | Founder biography (The Reverend Deacon Paul Moore), mission, vision, values, meaning of the crest, STL Veterans Hub. |
+| Our Story (`about.html`) | Founder biography (The Reverend Paul Moore), mission, vision, values, meaning of the crest, STL Veterans Hub. |
 | Ministries (`ministries.html`) | Street outreach, spiritual care, K9, resource navigation, mental-health partnerships, family support. |
 | K9 Program (`k9.html`) | Why dogs matter, Gypse, the training pathway, **request help for a veteran's dog** form. |
 | K9 Training Suite (`k9-suite.html`) | The full training app (see [K9 Suite guide](K9_SUITE_GUIDE.md)). |

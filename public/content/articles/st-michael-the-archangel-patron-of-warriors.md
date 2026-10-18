@@ -10,7 +10,7 @@ permalink_slug: st-michael-the-archangel-patron-of-warriors
 
 # St. Michael the Archangel: Patron of Warriors
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · September 26, 2027 · Week 48*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · September 26, 2027 · Week 48*
 
 > **"And there was war in heaven: Michael and his angels fought against the dragon."**
 > Revelation 12:7 (KJV)
@@ -55,7 +55,7 @@ Pray the St. Michael Prayer every day this week, and donate prayer items to Fait
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

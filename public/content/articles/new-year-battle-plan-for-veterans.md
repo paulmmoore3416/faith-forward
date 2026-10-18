@@ -10,7 +10,7 @@ permalink_slug: new-year-battle-plan-for-veterans
 
 # Starting Over: A New Year Battle Plan for Veterans
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · December 27, 2026 · Week 9*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · December 27, 2026 · Week 9*
 
 > **"Remember ye not the former things, neither consider the things of old. Behold, I will do a new thing; now it shall spring forth."**
 > Isaiah 43:18-19 (KJV)
@@ -73,7 +73,7 @@ Write your one-page battle plan this week and share it with one battle buddy.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

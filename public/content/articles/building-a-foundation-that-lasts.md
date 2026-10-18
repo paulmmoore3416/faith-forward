@@ -10,7 +10,7 @@ permalink_slug: building-a-foundation-that-lasts
 
 # Building a Foundation That Lasts: Stewardship and Transparency
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · October 10, 2027 · Week 50*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · October 10, 2027 · Week 50*
 
 > **"Moreover it is required in stewards, that a man be found faithful."**
 > 1 Corinthians 4:2 (KJV)
@@ -60,7 +60,7 @@ Ask us anything about how we use donations. We'll answer.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

@@ -10,7 +10,7 @@ permalink_slug: redemption-justice-involved-veterans
 
 # Redemption After Incarceration: Justice-Involved Veterans
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · July 18, 2027 · Week 38*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · July 18, 2027 · Week 38*
 
 > **"I was in prison, and ye came unto me."**
 > Matthew 25:36 (KJV)
@@ -53,7 +53,7 @@ Write a letter to someone incarcerated, or support a reentry ministry.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

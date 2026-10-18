@@ -10,7 +10,7 @@ permalink_slug: va-healthcare-field-guide-st-louis
 
 # The VA Healthcare Maze: A Field Guide for St. Louis
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · February 21, 2027 · Week 17*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · February 21, 2027 · Week 17*
 
 > **"Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."**
 > Matthew 7:7 (KJV)
@@ -70,7 +70,7 @@ If you're a veteran not enrolled in VA care, gather your documents this week. If
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

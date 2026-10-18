@@ -10,7 +10,7 @@ permalink_slug: freedom-isnt-free-peace-of-mind
 
 # Freedom Isn't Free, and Neither Is Peace of Mind
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · July 4, 2027 · Week 36*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · July 4, 2027 · Week 36*
 
 > **"And ye shall know the truth, and the truth shall make you free."**
 > John 8:32 (KJV)
@@ -55,7 +55,7 @@ Invite a veteran to your celebration, and say thank you to someone who paid the 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

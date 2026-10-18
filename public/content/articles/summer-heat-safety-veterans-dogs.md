@@ -10,7 +10,7 @@ permalink_slug: summer-heat-safety-veterans-dogs
 
 # Heat Is Coming: Summer Safety for Veterans and Their Dogs
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · May 23, 2027 · Week 30*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · May 23, 2027 · Week 30*
 
 > **"For thou hast been... a refuge from the storm, a shadow from the heat."**
 > Isaiah 25:4 (KJV)
@@ -64,7 +64,7 @@ Donate a case of water and a pack of collapsible dog bowls, and keep extra water
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

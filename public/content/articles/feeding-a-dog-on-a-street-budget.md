@@ -10,7 +10,7 @@ permalink_slug: feeding-a-dog-on-a-street-budget
 
 # Feeding a Working Dog on a Street Budget
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · April 11, 2027 · Week 24*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · April 11, 2027 · Week 24*
 
 > **"Consider the ravens: for they neither sow nor reap... and God feedeth them."**
 > Luke 12:24 (KJV)
@@ -64,7 +64,7 @@ Donate a sealed bag of dog food or a pack of pop-top canned dog food to Faith Fo
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

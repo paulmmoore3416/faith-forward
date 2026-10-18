@@ -10,7 +10,7 @@ permalink_slug: suicide-prevention-month-be-there
 
 # Suicide Prevention Month: Be There
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · September 19, 2027 · Week 47*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · September 19, 2027 · Week 47*
 
 > **"Bear ye one another's burdens, and so fulfil the law of Christ."**
 > Galatians 6:2 (KJV)
@@ -65,7 +65,7 @@ Text three veterans this week just to check in.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

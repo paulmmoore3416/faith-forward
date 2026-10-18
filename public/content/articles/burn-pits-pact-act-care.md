@@ -10,7 +10,7 @@ permalink_slug: burn-pits-pact-act-care
 
 # Burn Pits, the PACT Act, and the Care You've Earned
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · August 29, 2027 · Week 44*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · August 29, 2027 · Week 44*
 
 > **"Bless the LORD, O my soul... Who forgiveth all thine iniquities; who healeth all thy diseases."**
 > Psalm 103:2-3 (KJV)
@@ -57,7 +57,7 @@ If you served in a combat zone, ask for your toxic exposure screening at your ne
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

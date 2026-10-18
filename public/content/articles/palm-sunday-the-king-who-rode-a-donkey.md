@@ -10,7 +10,7 @@ permalink_slug: palm-sunday-the-king-who-rode-a-donkey
 
 # Palm Sunday: The King Who Rode a Donkey
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · March 21, 2027 · Week 21*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · March 21, 2027 · Week 21*
 
 > **"Behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass."**
 > Zechariah 9:9 (KJV)
@@ -53,7 +53,7 @@ Attend a Holy Week service, and do one act of humble service for someone this we
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

@@ -10,7 +10,7 @@ permalink_slug: training-the-handler-first
 
 # Training the Handler First: Lessons From the K9 Program
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · March 7, 2027 · Week 19*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · March 7, 2027 · Week 19*
 
 > **"Let all things be done decently and in order."**
 > 1 Corinthians 14:40 (KJV)
@@ -61,7 +61,7 @@ Try one five-minute training session today, and log it in the K9 Suite.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

@@ -10,7 +10,7 @@ permalink_slug: d-day-faith-prayers-before-the-storm
 
 # D-Day Faith: Prayers Before the Storm
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · June 6, 2027 · Week 32*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · June 6, 2027 · Week 32*
 
 > **"Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight."**
 > Psalm 144:1 (KJV)
@@ -57,7 +57,7 @@ Before your next hard thing, pray FDR's way: not for ease, but for a steady hear
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

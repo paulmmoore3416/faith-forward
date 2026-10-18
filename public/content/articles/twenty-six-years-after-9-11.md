@@ -10,7 +10,7 @@ permalink_slug: twenty-six-years-after-9-11
 
 # Twenty-Six Years After 9/11: The Generation That Answered
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · September 12, 2027 · Week 46*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · September 12, 2027 · Week 46*
 
 > **"The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."**
 > Psalm 34:18 (KJV)
@@ -57,7 +57,7 @@ Pause to pray at 8:46 a.m. ET (7:46 a.m. in St. Louis), and call a post-9/11 vet
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

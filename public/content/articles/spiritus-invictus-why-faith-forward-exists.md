@@ -10,7 +10,7 @@ permalink_slug: spiritus-invictus-why-faith-forward-exists
 
 # Spiritus Invictus: Why Faith Forward Exists
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · November 1, 2026 · Week 1*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · November 1, 2026 · Week 1*
 
 > **"Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."**
 > Matthew 25:40 (KJV)
@@ -21,9 +21,9 @@ That is the story behind **Faith Forward Foundation**.
 
 ## A Founder Who Has Walked These Streets
 
-Our founder, **The Reverend Deacon Paul Moore**, served three combat tours in Iraq and came home a disabled veteran. Like too many of his brothers and sisters, he found that coming home was a battlefield of its own. He went through homelessness, addiction, and the justice system on the streets of St. Louis. He knows what it is to have a dog as your only family, a backpack as your only closet, and a prayer as your only plan.
+Our founder, **The Reverend Paul Moore**, served three combat tours in Iraq and came home a disabled veteran. Like too many of his brothers and sisters, he found that coming home was a battlefield of its own. He went through homelessness, addiction, and the justice system on the streets of St. Louis. He knows what it is to have a dog as your only family, a backpack as your only closet, and a prayer as your only plan.
 
-He also knows that grace finds people there. Today he serves as an ordained deacon, a servant of the Church called to the poor and forgotten. He is the creator and founder of **STL Veterans Hub** (stlveteranshub.com), which maps every veteran resource in the region, and now of Faith Forward, which takes that map, and the Gospel, to the street.
+He also knows that grace finds people there. Today he serves as an ordained minister, called to the poor and forgotten. He is the creator and founder of **STL Veterans Hub** (stlveteranshub.com), which maps every veteran resource in the region, and now of Faith Forward, which takes that map, and the Gospel, to the street.
 
 ## What We Do
 
@@ -65,7 +65,7 @@ Follow Faith Forward on Facebook, share this article with one veteran or church 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

@@ -188,8 +188,8 @@ export const QUOTES: Quote[] = [
   { text: 'Spiritus Invictus. Your spirit was never conquered, only wounded. Wounds heal.', author: 'Faith Forward' },
   { text: 'No veteran left behind. No dog left behind. No soul left unprayed-for.', author: 'Faith Forward' },
   { text: 'The leash runs both ways: you lead your dog, and your dog leads you home.', author: 'Faith Forward K9 Program' },
-  { text: 'Every morning is a new muster. Report in to God; He has been waiting.', author: 'Rev. Mr. Paul Moore' },
-  { text: 'I was lost on the same streets I now serve. Grace found me there, and it will find you too.', author: 'Rev. Mr. Paul Moore' },
+  { text: 'Every morning is a new muster. Report in to God; He has been waiting.', author: 'Rev. Paul Moore' },
+  { text: 'I was lost on the same streets I now serve. Grace found me there, and it will find you too.', author: 'Rev. Paul Moore' },
 ];
 
 export const PRAYERS: Prayer[] = [
@@ -240,7 +240,7 @@ export const PRAYERS: Prayer[] = [
   { title: 'Prayer of St. Francis', text: 'Lord, make me an instrument of your peace: where there is hatred, let me sow love; where there is injury, pardon; where there is doubt, faith; where there is despair, hope; where there is darkness, light; where there is sadness, joy. For it is in giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen.' },
   { title: 'Anima Christi', text: 'Soul of Christ, sanctify me. Body of Christ, save me. Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O good Jesus, hear me. Within thy wounds hide me. Suffer me not to be separated from thee. From the malicious enemy defend me. In the hour of my death call me, and bid me come unto thee, that with thy saints I may praise thee for ever and ever. Amen.' },
   { title: 'Psalm 91 Prayer', text: 'Lord, I dwell in Your shelter and rest in Your shadow. You are my refuge and my fortress. Cover me with Your feathers; let Your faithfulness be my shield. A thousand may fall at my side, but You keep watch over me. Amen.' },
-  { title: 'For the Deacon\'s Ministry', text: 'Lord, You called me to serve at Your table and in the streets. Let my diaconate be real: in the soup line, at the bedside, beside the tent. Keep me a servant first. Amen.' },
+  { title: 'For the Minister\'s Calling', text: 'Lord, You called me to serve at Your table and in the streets. Let my ministry be real: in the soup line, at the bedside, beside the tent. Keep me a servant first. Amen.' },
   { title: 'For the Grieving', text: 'Lord, comfort those who mourn today: Gold Star families, battle buddies, children who lost a parent. Sit with them in the ashes. Promise them morning. Amen.' },
   { title: 'For Our Foundation', text: 'Lord, Faith Forward is Yours, not mine. Build it as You will. Send the right people, the right partners, the right resources. Protect it from pride and waste. Let it outlive me and keep serving. Amen.' },
   { title: 'For Justice', text: 'God of justice, open the doors of benefits, healthcare, and housing that bureaucracy has closed. Speed up delayed claims. Give advocates persistence and officials compassion. Amen.' },

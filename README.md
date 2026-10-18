@@ -11,7 +11,7 @@
 
 **Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and veterans in need in **St. Louis, Missouri**, including the dogs who walk beside them.
 
-Founded by **The Reverend Deacon Paul Moore** (Rev. Mr. Paul Moore), a disabled veteran of three combat tours in Iraq, ordained deacon, and creator and founder of Faith Forward Foundation and **[STL Veterans Hub](https://www.stlveteranshub.com)**.
+Founded by **The Reverend Paul Moore** (Rev. Paul Moore), a disabled veteran of three combat tours in Iraq, ordained minister, and creator and founder of Faith Forward Foundation and **[STL Veterans Hub](https://www.stlveteranshub.com)**.
 
 > **Veteran in crisis?** Call **988 and press 1**, text **838255**, or chat at [VeteransCrisisLine.net](https://www.veteranscrisisline.net). Free, confidential, 24/7.
 
@@ -45,7 +45,7 @@ A first-of-its-kind, faith-based K9 program in the browser:
 - **8 programs, 76 lessons**: handler foundations, obedience, MWD-standard advanced control, emotional-support and psychiatric-service tasks, detection, tracking, gated protection (control first), and train-the-trainer
 - **Breed library** preloaded for the **pit bull family** (APBT incl. blue/red nose, AmStaff, Staffordshire Bull Terrier, American Bully), **German Shepherd**, **Belgian Malinois**, and **Labrador Retriever**. Selecting a breed populates every section.
 - **Nutrition calculator**, medical records with due dates, K9 first aid, breed health screening, weekly conditioning plans, premade MWD-style routines, logs, printable reports, and certificates
-- Preloaded with our founding team: **Rev. Mr. Paul Moore & Gypse**, a 2-year-old blue nose pit bull
+- Preloaded with our founding team: **Rev. Paul Moore & Gypse**, a 2-year-old blue nose pit bull
 
 ## 🛠️ Technology
 

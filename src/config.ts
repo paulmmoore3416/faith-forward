@@ -13,11 +13,11 @@ export const ORG = {
     'A St. Louis where no veteran sleeps unseen, unfed, or unprayed-for, and where every veteran and the animal that walks beside them has a path home.',
   region: 'St. Louis, Missouri',
   founder: {
-    formal: 'The Reverend Deacon Paul Moore',
-    short: 'Rev. Mr. Paul Moore',
+    formal: 'The Reverend Paul Moore',
+    short: 'Rev. Paul Moore',
     title: 'Creator & Founder',
     bio:
-      'A disabled veteran of three combat tours in Iraq, ordained deacon, and creator and founder of both Faith Forward Foundation and STL Veterans Hub (stlveteranshub.com).',
+      'A disabled veteran of three combat tours in Iraq, ordained minister, and creator and founder of both Faith Forward Foundation and STL Veterans Hub (stlveteranshub.com).',
   },
   contactEmail: 'paulmmoore3416@gmail.com',
   facebook: 'https://www.facebook.com/profile.php?id=61581209302246',

@@ -10,7 +10,7 @@ permalink_slug: army-birthday-creeds-callings-faith
 
 # The Army Turns 252: Creeds, Callings, and a Soldier's Faith
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · June 13, 2027 · Week 33*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · June 13, 2027 · Week 33*
 
 > **"I have fought a good fight, I have finished my course, I have kept the faith."**
 > 2 Timothy 4:7 (KJV)
@@ -58,7 +58,7 @@ Call an Army buddy and say happy birthday. Then recite the Warrior Ethos and pic
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

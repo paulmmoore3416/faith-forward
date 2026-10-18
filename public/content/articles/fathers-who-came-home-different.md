@@ -10,7 +10,7 @@ permalink_slug: fathers-who-came-home-different
 
 # Fathers Who Came Home Different
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · June 20, 2027 · Week 34*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · June 20, 2027 · Week 34*
 
 > **"And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran."**
 > Luke 15:20 (KJV)
@@ -55,7 +55,7 @@ Veteran dads: take one step this week, like a call, a letter, or an apology. Eve
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

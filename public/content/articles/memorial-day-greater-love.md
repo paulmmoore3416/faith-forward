@@ -10,7 +10,7 @@ permalink_slug: memorial-day-greater-love
 
 # Memorial Day: Greater Love Hath No Man
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · May 30, 2027 · Week 31*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · May 30, 2027 · Week 31*
 
 > **"Greater love hath no man than this, that a man lay down his life for his friends."**
 > John 15:13 (KJV)
@@ -57,7 +57,7 @@ Say the name of someone who gave their life in service, and pause at 3:00 p.m. o
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

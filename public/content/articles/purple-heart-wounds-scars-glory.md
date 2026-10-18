@@ -10,7 +10,7 @@ permalink_slug: purple-heart-wounds-scars-glory
 
 # Purple Heart: Wounds, Scars, and Glory
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · August 8, 2027 · Week 41*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · August 8, 2027 · Week 41*
 
 > **"Then saith he to Thomas, Reach hither thy finger, and behold my hands... and be not faithless, but believing."**
 > John 20:27 (KJV)
@@ -54,7 +54,7 @@ Thank a Purple Heart recipient, and pray for a wounded veteran by name.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

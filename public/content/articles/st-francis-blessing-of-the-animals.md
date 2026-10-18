@@ -10,7 +10,7 @@ permalink_slug: st-francis-blessing-of-the-animals
 
 # St. Francis and the Blessing of the Animals
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · October 3, 2027 · Week 49*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · October 3, 2027 · Week 49*
 
 > **"O LORD, thou preservest man and beast."**
 > Psalm 36:6 (KJV)
@@ -55,7 +55,7 @@ Bring your dog to a blessing, and donate animal supplies for veterans' dogs.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

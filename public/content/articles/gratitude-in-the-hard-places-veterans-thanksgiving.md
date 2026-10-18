@@ -10,7 +10,7 @@ permalink_slug: gratitude-in-the-hard-places-veterans-thanksgiving
 
 # Gratitude in the Hard Places: A Veteran's Thanksgiving
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · November 22, 2026 · Week 4*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · November 22, 2026 · Week 4*
 
 > **"In every thing give thanks: for this is the will of God in Christ Jesus concerning you."**
 > 1 Thessalonians 5:18 (KJV)
@@ -63,7 +63,7 @@ Set an extra place, deliver a plate, or donate non-perishable food. Then do the 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

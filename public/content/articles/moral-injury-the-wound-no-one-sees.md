@@ -10,7 +10,7 @@ permalink_slug: moral-injury-the-wound-no-one-sees
 
 # Moral Injury: The Wound No One Sees
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · December 13, 2026 · Week 7*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · December 13, 2026 · Week 7*
 
 > **"Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow."**
 > Isaiah 1:18 (KJV)
@@ -67,7 +67,7 @@ If you carry a moral injury, tell one safe person this week. If you're a church 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

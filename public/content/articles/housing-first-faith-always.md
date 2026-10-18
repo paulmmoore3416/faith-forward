@@ -10,7 +10,7 @@ permalink_slug: housing-first-faith-always
 
 # Housing First, Faith Always: How Veterans Get Off the Street
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · April 4, 2027 · Week 23*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · April 4, 2027 · Week 23*
 
 > **"Except the LORD build the house, they labour in vain that build it."**
 > Psalm 127:1 (KJV)
@@ -61,7 +61,7 @@ Assemble a welcome-home kit for a newly housed veteran, including something for 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

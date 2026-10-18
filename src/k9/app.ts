@@ -528,7 +528,7 @@ function reports(): string {
       <p>have successfully completed</p>
       <p class="text-xl font-bold text-faith-navy my-2">${passedPrograms.length ? passedPrograms.map((p) => esc(p.name)).join(' · ') : '<em>(no complete programs yet)</em>'}</p>
       <p class="italic text-sm mt-6 text-gray-600">"Well done, thou good and faithful servant." (Matthew 25:21)</p>
-      <div class="grid grid-cols-2 gap-12 mt-12 text-sm"><p class="border-t pt-2">The Reverend Deacon Paul Moore<br>Founder, Faith Forward Foundation</p><p class="border-t pt-2">Date: ${today()}</p></div>
+      <div class="grid grid-cols-2 gap-12 mt-12 text-sm"><p class="border-t pt-2">The Reverend Paul Moore<br>Founder, Faith Forward Foundation</p><p class="border-t pt-2">Date: ${today()}</p></div>
     </div>`;
   }
   return `<div class="flex flex-wrap gap-2 mb-6 no-print">
@@ -654,7 +654,7 @@ document.addEventListener('click', (e) => {
     case 'export': download(`faith-forward-k9-backup-${today()}.json`, JSON.stringify(S, null, 2)); break;
     case 'reset': if (confirm('Erase all suite data on this device and restore defaults? Export a backup first.')) { S = reset(); render(); } break;
     case 'award': {
-      const by = prompt('Certified by (name)?', 'The Reverend Deacon Paul Moore');
+      const by = prompt('Certified by (name)?', 'The Reverend Paul Moore');
       if (by) { S.handler.certifications.push({ level: el.dataset.level!, date: today(), by }); commit(); }
       break;
     }

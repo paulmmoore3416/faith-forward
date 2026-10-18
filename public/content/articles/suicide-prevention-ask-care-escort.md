@@ -10,7 +10,7 @@ permalink_slug: suicide-prevention-ask-care-escort
 
 # Suicide Prevention: Ask, Care, Escort
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · April 18, 2027 · Week 25*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · April 18, 2027 · Week 25*
 
 > **"Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God."**
 > Psalm 42:11 (KJV)
@@ -61,7 +61,7 @@ Save 988 in your phone, learn ACE, and check on one veteran this week.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

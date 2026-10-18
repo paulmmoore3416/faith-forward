@@ -38,7 +38,7 @@ export const today = () => new Date().toISOString().slice(0, 10);
 
 export const GYPSE: Dog = {
   id: 'gypse', name: 'Gypse', breedId: 'pitbull-apbt', sex: 'F', dob: '2024-10-01', weightLb: 50,
-  color: 'Blue (blue nose)', altered: true, microchip: '', handler: 'Rev. Mr. Paul Moore', vet: '',
+  color: 'Blue (blue nose)', altered: true, microchip: '', handler: 'Rev. Paul Moore', vet: '',
   goals: ['companion', 'esa', 'psd', 'obedience', 'protection'], activity: 'active', kcalPerCup: 380,
   notes: 'Founding dog of the Faith Forward K9 Program. Confirm weight, spay status, birth date, and kibble kcal/cup, then update this profile.',
 };
@@ -51,7 +51,7 @@ function seed(): SuiteState {
     progress: {},
     logs: [],
     medical: [],
-    handler: { name: 'The Reverend Deacon Paul Moore', certifications: [], directorSignoffProtection: {} },
+    handler: { name: 'The Reverend Paul Moore', certifications: [], directorSignoffProtection: {} },
   };
 }
 

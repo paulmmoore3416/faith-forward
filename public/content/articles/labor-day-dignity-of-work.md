@@ -10,7 +10,7 @@ permalink_slug: labor-day-dignity-of-work
 
 # Labor Day: The Dignity of Work
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · September 5, 2027 · Week 45*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · September 5, 2027 · Week 45*
 
 > **"The labourer is worthy of his hire."**
 > Luke 10:7 (KJV)
@@ -55,7 +55,7 @@ Volunteer, mentor, or hire. And if you're a veteran looking for purpose, join a 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

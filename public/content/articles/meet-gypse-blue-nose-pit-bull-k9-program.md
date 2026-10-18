@@ -10,12 +10,12 @@ permalink_slug: meet-gypse-blue-nose-pit-bull-k9-program
 
 # Meet Gypse: The Blue Nose Pit Bull Leading Our K9 Program
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · January 3, 2027 · Week 10*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · January 3, 2027 · Week 10*
 
 > **"And God made the beast of the earth after his kind... and God saw that it was good."**
 > Genesis 1:25 (KJV)
 
-Every program needs a first team. Ours is **Rev. Mr. Paul Moore and Gypse**, a two-year-old female blue nose pit bull with a big heart and a bigger appetite for learning.
+Every program needs a first team. Ours is **Rev. Paul Moore and Gypse**, a two-year-old female blue nose pit bull with a big heart and a bigger appetite for learning.
 
 ## Why the Founder Trains First
 
@@ -62,7 +62,7 @@ Share Gypse's story to help change minds about pit bulls, and donate dog food to
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

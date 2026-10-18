@@ -10,7 +10,7 @@ permalink_slug: advent-waiting-in-the-dark
 
 # Advent for the Unhoused: Waiting in the Dark for the Light
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · November 29, 2026 · Week 5*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · November 29, 2026 · Week 5*
 
 > **"The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined."**
 > Isaiah 9:2 (KJV)
@@ -68,7 +68,7 @@ Start the Four Candles challenge today: pray by name for one veteran waiting on 
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

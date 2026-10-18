@@ -10,7 +10,7 @@ permalink_slug: brotherhood-after-the-uniform-isolation
 
 # Brotherhood After the Uniform: Fighting Isolation
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · January 17, 2027 · Week 12*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · January 17, 2027 · Week 12*
 
 > **"Two are better than one... For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth."**
 > Ecclesiastes 4:9-10 (KJV)
@@ -59,7 +59,7 @@ Call one person from your old unit this week. No reason needed.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

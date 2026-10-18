@@ -41,7 +41,7 @@ Paste the contents of [`firestore.rules`](../../firestore.rules) into **Firestor
 
 1. **Authentication → Users → Add user**: your email and a strong password (16+ characters).
 2. Copy the new user's **UID**.
-3. **Firestore → Start collection** `staff` → Document ID = that UID → field `name` (string) = `The Reverend Deacon Paul Moore`.
+3. **Firestore → Start collection** `staff` → Document ID = that UID → field `name` (string) = `The Reverend Paul Moore`.
 
 Repeat for each staff member who should see submissions.
 

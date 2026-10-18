@@ -10,7 +10,7 @@ permalink_slug: veterans-day-st-martin-of-tours
 
 # Veterans Day and St. Martin of Tours: The Soldier Who Shared His Cloak
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · November 8, 2026 · Week 2*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · November 8, 2026 · Week 2*
 
 > **"For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: naked, and ye clothed me."**
 > Matthew 25:35-36 (KJV)
@@ -57,7 +57,7 @@ Donate one new coat or a pack of thermal socks to the Winter Survival Backpack D
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

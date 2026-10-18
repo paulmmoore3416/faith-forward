@@ -28,7 +28,7 @@ FOOTER = """---
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [{site}]({site})
 - 🎒 Donate supplies: [{site}donate.html]({site}donate.html)
@@ -59,7 +59,7 @@ def render(a: dict, date: dt.date) -> str:
 
 # {a['title']}
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · {long_date} · Week {a['week']}*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · {long_date} · Week {a['week']}*
 
 > **"{verse_text}"**
 > {verse_ref} (KJV)

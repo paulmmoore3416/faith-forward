@@ -10,7 +10,7 @@ permalink_slug: the-dog-at-his-side-veterans-and-animals
 
 # The Dog at His Side: Why Animals Matter in Veteran Homelessness
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · November 15, 2026 · Week 3*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · November 15, 2026 · Week 3*
 
 > **"A righteous man regardeth the life of his beast."**
 > Proverbs 12:10 (KJV)
@@ -45,7 +45,7 @@ Our K9 program attacks that barrier from several directions:
 
 ## Gypse and the First Handler
 
-Our founder, Rev. Mr. Paul Moore, is the first handler trained through our program, working with Gypse, a two-year-old blue nose pit bull. He is learning every step so he can train the trainers, so veterans can teach veterans.
+Our founder, Rev. Paul Moore, is the first handler trained through our program, working with Gypse, a two-year-old blue nose pit bull. He is learning every step so he can train the trainers, so veterans can teach veterans.
 
 ## 🙏 A Prayer for This Week
 
@@ -67,7 +67,7 @@ Add a bag of dog food, a leash, or a dog coat to your donation this week. If you
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

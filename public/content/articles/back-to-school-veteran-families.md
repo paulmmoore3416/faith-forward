@@ -10,7 +10,7 @@ permalink_slug: back-to-school-veteran-families
 
 # Back to School: Supporting Veteran Families
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · August 15, 2027 · Week 42*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · August 15, 2027 · Week 42*
 
 > **"Train up a child in the way he should go: and when he is old, he will not depart from it."**
 > Proverbs 22:6 (KJV)
@@ -65,7 +65,7 @@ Fill a backpack with school supplies for a veteran's child.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

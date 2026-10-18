@@ -10,7 +10,7 @@ permalink_slug: addiction-recovery-no-pit-so-deep
 
 # Addiction and Recovery: There Is No Pit So Deep
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · February 28, 2027 · Week 18*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · February 28, 2027 · Week 18*
 
 > **"He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings."**
 > Psalm 40:2 (KJV)
@@ -59,7 +59,7 @@ If you're struggling, tell one person today. If you're in recovery, call someone
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

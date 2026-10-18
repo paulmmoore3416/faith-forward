@@ -10,7 +10,7 @@ permalink_slug: women-veterans-seen-honored-served
 
 # Women Veterans: Seen, Honored, Served
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · March 14, 2027 · Week 20*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · March 14, 2027 · Week 20*
 
 > **"Strength and honour are her clothing; and she shall rejoice in time to come."**
 > Proverbs 31:25 (KJV)
@@ -56,7 +56,7 @@ Donate feminine hygiene products this month, and thank a woman veteran by name.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

@@ -10,7 +10,7 @@ permalink_slug: armed-forces-day-honoring-those-who-serve-now
 
 # Armed Forces Day: Honoring Those Who Serve Now
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · May 16, 2027 · Week 29*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · May 16, 2027 · Week 29*
 
 > **"Thou therefore endure hardness, as a good soldier of Jesus Christ."**
 > 2 Timothy 2:3 (KJV)
@@ -55,7 +55,7 @@ Pray for a service member by name, and support a military family in your parish.
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

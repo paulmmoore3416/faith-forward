@@ -10,7 +10,7 @@ permalink_slug: faith-forward-the-mission-continues
 
 # Faith Forward: The Mission Continues
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · October 24, 2027 · Week 52*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · October 24, 2027 · Week 52*
 
 > **"Forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark."**
 > Philippians 3:13-14 (KJV)
@@ -44,7 +44,7 @@ Every veteran we've met this year has been wounded. Not one has been conquered. 
 
 ## 🧭 Veteran Resource Spotlight
 
-**STL Veterans Hub** (stlveteranshub.com), founded by Rev. Mr. Paul Moore, maps veteran resources across the St. Louis region.
+**STL Veterans Hub** (stlveteranshub.com), founded by Rev. Paul Moore, maps veteran resources across the St. Louis region.
 
 ## 🐕 K9 Corner
 
@@ -58,7 +58,7 @@ Pick one way to join the mission (give, serve, partner, pray, or share) and do i
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

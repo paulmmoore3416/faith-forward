@@ -10,7 +10,7 @@ permalink_slug: no-room-at-the-inn-christmas-homeless-veteran
 
 # No Room at the Inn: Christmas and the Homeless Veteran
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · December 20, 2026 · Week 8*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · December 20, 2026 · Week 8*
 
 > **"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."**
 > Luke 2:7 (KJV)
@@ -60,7 +60,7 @@ Make room for one: invite, sponsor, or deliver. Then pray Luke 2 with your famil
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)

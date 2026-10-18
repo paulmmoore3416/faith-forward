@@ -15,9 +15,9 @@ That is the story behind **Faith Forward Foundation**.
 
 ## A Founder Who Has Walked These Streets
 
-Our founder, **The Reverend Deacon Paul Moore**, served three combat tours in Iraq and came home a disabled veteran. Like too many of his brothers and sisters, he found that coming home was a battlefield of its own. He went through homelessness, addiction, and the justice system on the streets of St. Louis. He knows what it is to have a dog as your only family, a backpack as your only closet, and a prayer as your only plan.
+Our founder, **The Reverend Paul Moore**, served three combat tours in Iraq and came home a disabled veteran. Like too many of his brothers and sisters, he found that coming home was a battlefield of its own. He went through homelessness, addiction, and the justice system on the streets of St. Louis. He knows what it is to have a dog as your only family, a backpack as your only closet, and a prayer as your only plan.
 
-He also knows that grace finds people there. Today he serves as an ordained deacon, a servant of the Church called to the poor and forgotten. He is the creator and founder of **STL Veterans Hub** (stlveteranshub.com), which maps every veteran resource in the region, and now of Faith Forward, which takes that map, and the Gospel, to the street.
+He also knows that grace finds people there. Today he serves as an ordained minister, called to the poor and forgotten. He is the creator and founder of **STL Veterans Hub** (stlveteranshub.com), which maps every veteran resource in the region, and now of Faith Forward, which takes that map, and the Gospel, to the street.
 
 ## What We Do
 
@@ -109,7 +109,7 @@ Our K9 program attacks that barrier from several directions:
 
 ## Gypse and the First Handler
 
-Our founder, Rev. Mr. Paul Moore, is the first handler trained through our program, working with Gypse, a two-year-old blue nose pit bull. He is learning every step so he can train the trainers, so veterans can teach veterans.""",
+Our founder, Rev. Paul Moore, is the first handler trained through our program, working with Gypse, a two-year-old blue nose pit bull. He is learning every step so he can train the trainers, so veterans can teach veterans.""",
  prayer="Creator of all living things, You placed the animals in Eden as companions and gave Adam the joy of naming them. Bless the dogs who keep our veterans warm, alert, and loved. Open the doors of shelters and homes to both. And teach us to honor the bond You made. Amen.",
  resource="**Humane Society of Missouri** (1201 Macklind Ave, St. Louis) offers veterinary services and low-cost spay/neuter programs. Call ahead to ask about assistance for veterans or people experiencing homelessness.",
  k9="**Muzzle training is love, not shame.** A dog that happily wears a basket muzzle can be safely examined, transported, and accepted in more places. Start by smearing peanut butter (xylitol-free!) inside the muzzle and letting your dog put their nose in on their own.",
@@ -360,7 +360,7 @@ dict(week=10, title="Meet Gypse: The Blue Nose Pit Bull Leading Our K9 Program",
  keywords=["blue nose pit bull", "pit bull training", "pit bull emotional support dog", "veteran K9 program", "pit bull myths"],
  labels=["MeetGypse", "BlueNosePitBull", "PitBullTraining", "K9Program", "FaithForward", "AdoptDontShop"],
  verse=("And God made the beast of the earth after his kind... and God saw that it was good.", "Genesis 1:25"),
- body="""Every program needs a first team. Ours is **Rev. Mr. Paul Moore and Gypse**, a two-year-old female blue nose pit bull with a big heart and a bigger appetite for learning.
+ body="""Every program needs a first team. Ours is **Rev. Paul Moore and Gypse**, a two-year-old female blue nose pit bull with a big heart and a bigger appetite for learning.
 
 ## Why the Founder Trains First
 

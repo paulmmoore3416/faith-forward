@@ -433,7 +433,7 @@ dict(week=52, title="Faith Forward: The Mission Continues", slug="faith-forward-
 
 Every veteran we've met this year has been wounded. Not one has been conquered. That's the promise of our crest and of the Gospel. The mission continues.""",
  prayer="Lord, we press toward the mark. Go before Faith Forward into the year ahead. Send workers into the harvest, open doors for veterans, protect their animals, and keep us faithful. Let the unconquered Spirit burn in us. Amen.",
- resource="**STL Veterans Hub** (stlveteranshub.com), founded by Rev. Mr. Paul Moore, maps veteran resources across the St. Louis region.",
+ resource="**STL Veterans Hub** (stlveteranshub.com), founded by Rev. Paul Moore, maps veteran resources across the St. Louis region.",
  k9="Set your dog's goals for next year now: a CGC, a new task, a scent-work title, or simply better manners. Write them in the K9 Suite.",
  action="Pick one way to join the mission (give, serve, partner, pray, or share) and do it this week."),
 ]

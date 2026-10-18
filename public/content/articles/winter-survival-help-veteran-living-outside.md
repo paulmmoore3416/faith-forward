@@ -10,7 +10,7 @@ permalink_slug: winter-survival-help-veteran-living-outside
 
 # Winter Survival: How to Help a Veteran Living Outside This Season
 
-*By The Reverend Deacon Paul Moore, Founder, Faith Forward Foundation · December 6, 2026 · Week 6*
+*By The Reverend Paul Moore, Founder, Faith Forward Foundation · December 6, 2026 · Week 6*
 
 > **"He giveth snow like wool: he scattereth the hoarfrost like ashes... who can stand before his cold?"**
 > Psalm 147:16-17 (KJV)
@@ -65,7 +65,7 @@ Pack a winter kit for your car with socks, a hat, gloves, hand warmers, and a pr
 
 ### About Faith Forward Foundation
 
-**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Deacon Paul Moore**, a disabled three-tour Iraq veteran, ordained deacon, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
+**Faith Forward Foundation** provides assistance, resources, supplies, and religious faith-based services to displaced and homeless veterans, their families, and the animals who walk beside them in the St. Louis, Missouri area. Founded by **The Reverend Paul Moore**, a disabled three-tour Iraq veteran, ordained minister, and creator and founder of [STL Veterans Hub](https://www.stlveteranshub.com). *Spiritus Invictus*: the unconquered spirit.
 
 - 🌐 Website: [https://paulmmoore3416.github.io/faith-forward/](https://paulmmoore3416.github.io/faith-forward/)
 - 🎒 Donate supplies: [https://paulmmoore3416.github.io/faith-forward/donate.html](https://paulmmoore3416.github.io/faith-forward/donate.html)
